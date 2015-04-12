@@ -5,6 +5,6 @@
 # same token used in private_pub.yml of your rails project.
 
 production:
-  server: "https://private-pub-faye.herokuapp.com/faye/faye"
+  server: "http://private-pub-faye.herokuapp.com/faye/faye"
   secret_token: "latourneedesgrandsducs2015"
   signature_expiration: 86400 # one day
